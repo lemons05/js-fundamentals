@@ -18,8 +18,9 @@ and get linked here as I build them.
 
 ## Progress
 - [x] Day 1 — Environment setup, GitHub account created
-- [ ] Day 2 — Variables & Scope
-- [ ] Day 3 — Data Types & Operators
+- [x] Day 2 — Variables & Scope
+- [x] Day 3 — Data Types & Operators
+- [ ] Day 4 - Functions
 
 ## Connect
 - www.linkedin.com/in/rolijon-clemenia
